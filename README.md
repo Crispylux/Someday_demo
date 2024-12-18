@@ -1,5 +1,8 @@
-# Someday_demo
+# READ ME! 
 re-revolution fan game project demo file 입니다.
+Someday.zip을 다운받아 압축을 풀고, Someday_demo 응용 프로그램을 실행시켜 주세요.
+
+
 
 build date : 241219 05:00 (a.m)
 
