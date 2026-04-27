@@ -13,5 +13,8 @@ info : https://r-pizzza.tistory.com/15
 
 <img width="1029" height="579" alt="image" src="https://github.com/user-attachments/assets/4a281b68-87cf-4f03-9007-bd3a259ea764" />
 
+<img width="1031" height="579" alt="image" src="https://github.com/user-attachments/assets/4b7c47da-62fc-456e-b772-d9ead711ec92" />
+
+
 
 
